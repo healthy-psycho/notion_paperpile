@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Eric Gaudiello",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "healthypsycho@github.com",
+  "friendly_name": "Notion Paperpile",
+  "github_user": "healthypsycho",
+  "license": "MIT",
+  "package_name": "notion_paperpile_",
+  "project_name": "notion_paperpile_",
+  "version": "0.0.1"
+}
